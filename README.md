@@ -11,7 +11,6 @@ An automated system for analyzing and comparing student handwritten papers with 
 - [Project Structure](#project-structure)
 - [How It Works](#how-it-works)
 - [Future Enhancements](#future-enhancements)
-- [Contributors](#contributors)
 
 ## Overview
 
