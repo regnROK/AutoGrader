@@ -1,0 +1,20 @@
+# Core dependencies
+flask==2.0.1
+werkzeug==2.0.3
+flask-cors==3.0.10
+
+# OCR and Image Processing
+pytesseract==0.3.10
+opencv-python==4.8.0.76
+Pillow==9.4.0
+
+# NLP and Text Processing
+spacy==3.6.1
+nltk==3.8.1
+numpy==1.23.5
+
+# Additional dependencies from notebook
+requests==2.31.0
+tqdm==4.66.1
+packaging==23.2
+setuptools==67.7.2
